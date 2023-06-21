@@ -13,7 +13,7 @@ This project was aimed to present my completed applications. It will be continuo
 
 ## Usage
 
-To view my portfolio, please visit file:///Users/trevorteel/Desktop/starter-codes/week-two/index.html.
+To view my portfolio, please visit https://trevorteel.github.io/week-two/.
 
 To view the source code, please clone the 'week-two' repository from my GitHub at https://github.com/trevorteel.
 
